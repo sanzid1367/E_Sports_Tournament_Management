@@ -63,4 +63,6 @@ Software_Development_02/
 │── matches.php
 │── players.php
 │── teams.php
-│── tournaments.php
+│── tournament_details.php
+│── team_details.php
+│── players_details.php
