@@ -150,3 +150,4 @@ INSERT INTO match_results (match_id, winner_id, team1_score, team2_score, match_
 (4, 5, 2, 1, '02:08:35'),
 (5, NULL, 0, 0, '00:00:00'),
 (6, NULL, 0, 0, '00:00:00');
+
