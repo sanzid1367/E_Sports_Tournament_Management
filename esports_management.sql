@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS esports_tournament;
+
 -- Creating the database
 CREATE DATABASE esports_tournament;
 
